@@ -1,9 +1,6 @@
 # FreeMidjourney
 
 ## Members:
-|Burányi Dániel Bence|APC6AN|
-|Herkules Márton Gergely|GE64XE|
-|Major Gergely|DYR5N1|
 
 | Name    | Neptun |
 | -------- | -------- |
@@ -15,10 +12,17 @@
 
 Implement and train diffusion models, such as DDPM (Denoising Diffusion Probabilistic Model) for generating realistic images. Evaluate the capabilities of the models on two different datasets (CelebA and Flowers102).
 
-## functions of the files:
-caleb_a.ipynb: downloading and preparing the caleb_a dataset for training (Pytorch dataset)
+## functions of the files / Trainging and evaluating the modell:
+caleb_a.ipynb: Downloading and preparing the caleb_a dataset for training (Pytorch dataset)
 
-flowers102.ipynb: downloading and preparing the flowers102 dataset for training (Pytorch dataset)
+flowers102.ipynb: Downloading and preparing the flowers102 dataset for training (Pytorch dataset)
+
+training.ipynb: Loading the previously downloaded dataset and training the modell. 
+Saving the generated pictures for testing along with the best performing modell weights into the results folder
+
+test.ipynb: Testing the generated images in the results folder
+
+
 
 ## building + running
 >docker build -t "homework" . 
