@@ -47,5 +47,5 @@ After issuing the "jupyter notebook --ip 0.0.0.0 --no-browser --allow-root" comm
 
 ## Note:
 
-- Running the tests in docker environment can be difficult due to memory issues. We reccommend it to use HF or google colab  
+- Running the tests in docker environment can be difficult due to memory issues. We recommend it to use HF or google colab  
 - pip install comments should be removed while running the files with Colab
