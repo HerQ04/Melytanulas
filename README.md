@@ -40,3 +40,6 @@ test.ipynb: Testing the generated images in the results folder
 
 ## using the project
 After issuing the "jupyter notebook --ip 0.0.0.0 --no-browser --allow-root" command and then copying the link from the CMD, you can use every file in the  jupyter notebook interface
+
+
+## Hugging Face link: https://huggingface.co/spaces/mgreg555/FeeMidjourney
