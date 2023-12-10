@@ -21,7 +21,7 @@ flowers102.ipynb: Downloading and preparing the flowers102 dataset for training 
 training.ipynb: Loading the previously downloaded dataset and training the modell. 
 Saving the generated pictures for testing along with the best performing modell weights into the results folder
 
-test.ipynb: Testing the generated images in the results folder
+test.ipynb: Testing the generated images with the results folder
 
 
 
