@@ -13,7 +13,8 @@
 Implement and train diffusion models, such as DDPM (Denoising Diffusion Probabilistic Model) for generating realistic images. Evaluate the capabilities of the models on two different datasets (CelebA and Flowers102).
 
 ## functions of the files / Trainging and evaluating the modell:
-caleb_a.ipynb: Downloading and preparing the caleb_a dataset for training (Pytorch dataset)
+
+dogs_dataset.ipynb: Downloading and preparing the DALL-E-Dogs dataset for training
 
 flowers102.ipynb: Downloading and preparing the flowers102 dataset for training (Pytorch dataset)
 
